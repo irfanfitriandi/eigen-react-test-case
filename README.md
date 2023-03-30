@@ -36,8 +36,8 @@ This project is built using the following technologies:
 ## App Preview
 
 <div align="center">
-  <img src="https://github.com/irfanfitriandi/eigen-react-test-case/blob/main/react/public/desktop.gif" alt="desktop" />
+  <img src="https://github.com/irfanfitriandi/eigen-react-test-case/blob/main/public/desktop.gif" alt="desktop" />
   <br/>
-  <img src="https://github.com/irfanfitriandi/eigen-react-test-case/blob/main/react/public/mobile.gif" alt="mobile" />
+  <img src="https://github.com/irfanfitriandi/eigen-react-test-case/blob/main/public/mobile.gif" alt="mobile" />
 </div>
 
